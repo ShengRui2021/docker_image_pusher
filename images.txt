@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 whyour/qinglong:2.11.3
 jeessy/ddns-go
+bitwardenrs/server
